@@ -8,7 +8,7 @@ Install tool
 👿pkg install python👿
 👿pkg install python2👿
 👿pkg install git👿
-👿https://github.com/HANTER2/bdalamin👿
+👿git clone https://github.com/HANTER2/bdalamin👿
 👿cd bdalamin👿
 👿python2 bd2alamin.py👿
 
